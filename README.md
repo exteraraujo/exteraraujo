@@ -1,16 +1,28 @@
-👋 Olá, eu sou @exteraraujo
+👋 Hi, I’m @exteraraujo
 
-👀 Tenho interesse em contribuir para projetos que aprimorem meu conhecimento em desenvolvimento de software.
+👀 I’m a Software Engineering student passionate about backend development and eager to contribute to projects that expand my skills and knowledge in this field.
 
-🌱 Atualmente, estou aprendendo algoritmos e programação.
+🌱 Currently learning: Java (with a focus on backend development) and exploring algorithms and data structures.
 
-💞️ Estou buscando colaborar com pesquisas marinhas e projetos voltados para a preservação do meio ambiente.
+💞️ I’m excited to collaborate on marine research and environmental preservation projects, combining my love for technology with my passion for the ocean and nature.
 
-📫 Como me contactar: estermoraesmed@gmail.com
+📫 How to reach me:
 
-😄 Pronomes: Ela/Dela
+Email: estermoraesmed@gmail.com
 
-⚡ Curiosidade: Amo animais e adoraria participar de um projeto que fosse voltado a preservação da vida marinha. Sou apaixonada pelo mar e pela natureza.
+LinkedIn: https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/
+
+🌍 Languages I speak: Portuguese (native), English (fluent), and Italiano.
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I’m an animal lover and dream of participating in a project focused on marine life conservation. The ocean and nature inspire me every day!
+
+🚀 Next steps: I’m planning to learn Spring Boot (for Java backend development) and explore other backend technologies like Node.js and Python (Django/Flask) in the future.
+
+🔗 Check out my Java projects: [https://github.com/exteraraujo/meu-primeiro-codigo].
+
+📩 Feel free to reach out if you’re working on backend projects or initiatives related to marine conservation!
 
 <!---
 exteraraujo/exteraraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

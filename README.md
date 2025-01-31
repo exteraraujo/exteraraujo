@@ -12,7 +12,7 @@ Email: estermoraesmed@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/
 
-🌍 Languages I speak: Portuguese (native), English (fluent), and Italiano.
+🌍 Languages I speak: Portuguese (native), English (fluent), and Italiano (fluent).
 
 😄 Pronouns: She/Her
 

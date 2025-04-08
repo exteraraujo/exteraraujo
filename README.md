@@ -2,13 +2,13 @@
 
 👀 I’m a Software Engineering student passionate about backend development and eager to contribute to projects that expand my skills and knowledge in this field.
 
-🌱 Currently learning: Java (with a focus on backend development) and exploring algorithms and data structures.
+🌱 Currently learning: Java (with a focus on full stack developer) and exploring algorithms and data structures.
 
 💞️ I’m excited to collaborate on marine research and environmental preservation projects, combining my love for technology with my passion for the ocean and nature.
 
 📫 How to reach me:
 
-Email: estermoraesmed@gmail.com
+Email: esteraraujo.dev@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/
 

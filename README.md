@@ -14,6 +14,14 @@
 - Explorar **Node.js** e **Python (Django/Flask)**
 - Entender mais sobre bancos de dados, APIs REST e versionamento com Git
 
+🎯 Atualmente em busca de uma oportunidade como desenvolvedora júnior — focada em backend com Java, mas aberta a aprender novas tecnologias para crescer junto com o time.
+
+📌 Meus projetos em destaque:
+- [Gerenciador de Tarefas (Java)](https://github.com/exteraraujo/gerenciador-de-tarefas-java)
+- [EcoAlert (em desenvolvimento)](link_para_o_projeto_ecoalert)
+
+💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/) ou envie um e-mail: esteraraujo.dev@gmail.com
+
 📌 Destaques do meu GitHub:
 - [Gerenciador de Tarefas](https://github.com/exteraraujo/gerenciador-de-tarefas-java) – projeto prático para organizar tarefas com Java
 - [Eco Alert](https://github.com/exteraraujo/eco-alert) – projeto com foco ambiental, usando tecnologia para gerar alertas sustentáveis
@@ -34,4 +42,3 @@ Tenho um grande interesse por **preservação ambiental** e **vida marinha**, e 
 Amo a natureza, tenho uma cachorrinha chamada Gaia 🐶 e acredito que pequenas ações podem gerar grandes mudanças. A tecnologia é uma ferramenta poderosa para isso.
 
 ---
-🛠️ Em busca da minha primeira oportunidade na área de tecnologia. Se você tem um projeto ou empresa onde eu possa aprender e contribuir, me chama!

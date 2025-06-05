@@ -1,30 +1,37 @@
-👋 Hi, I’m @exteraraujo
+# 👋 Olá, eu sou a Ester Araújo!
 
-👀 I’m a Software Engineering student passionate about backend development and eager to contribute to projects that expand my skills and knowledge in this field.
+🎓 Estudante de Engenharia de Software, atualmente no 4º semestre, com foco em desenvolvimento **Full Stack**, especialmente em **Java**.
 
-🌱 Currently learning: Java (with a focus on full stack developer) and exploring algorithms and data structures.
+💻 Apaixonada por tecnologia e motivada a construir soluções úteis e de impacto. Tenho buscado evoluir por meio de projetos práticos, desafios de programação e colaboração em equipe.
 
-💞️ I’m excited to collaborate on marine research and environmental preservation projects, combining my love for technology with my passion for the ocean and nature.
+🌱 Atualmente aprendendo:
+- **Java (backend e orientação a objetos)**
+- **Estruturas de dados e algoritmos**
+- Fundamentos de **Spring Boot** e **Desenvolvimento Web**
 
-📫 How to reach me:
+🚀 Próximos passos:
+- Aprofundar em frameworks como **Spring Boot**
+- Explorar **Node.js** e **Python (Django/Flask)**
+- Entender mais sobre bancos de dados, APIs REST e versionamento com Git
 
-Email: esteraraujo.dev@gmail.com
+📌 Destaques do meu GitHub:
+- [Gerenciador de Tarefas](https://github.com/exteraraujo/gerenciador-de-tarefas-java) – projeto prático para organizar tarefas com Java
+- [Eco Alert](https://github.com/exteraraujo/eco-alert) – projeto com foco ambiental, usando tecnologia para gerar alertas sustentáveis
 
-LinkedIn: https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/
+🌍 Interesses:
+Tenho um grande interesse por **preservação ambiental** e **vida marinha**, e adoraria aplicar meus conhecimentos técnicos em projetos com propósito social ou ecológico no futuro. Mas estou totalmente aberta a oportunidades em qualquer área da tecnologia que me ajudem a crescer como desenvolvedora!
 
-🌍 Languages I speak: Portuguese (native), English (fluent), and Italiano (fluent).
+📫 Como falar comigo:
+- Email: **esteraraujo.dev@gmail.com**
+- LinkedIn: [linkedin.com/in/ester-araújo](https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/)
 
-😄 Pronouns: She/Her
+🌐 Idiomas:
+- Português (nativo)
+- Inglês (fluente)
+- Italiano (fluente)
 
-⚡ Fun fact: I’m an animal lover and dream of participating in a project focused on marine life conservation. The ocean and nature inspire me every day!
+⚡ Curiosidade:
+Amo a natureza, tenho uma cachorrinha chamada Gaia 🐶 e acredito que pequenas ações podem gerar grandes mudanças. A tecnologia é uma ferramenta poderosa para isso.
 
-🚀 Next steps: I’m planning to learn Spring Boot (for Java backend development) and explore other backend technologies like Node.js and Python (Django/Flask) in the future.
-
-🔗 Check out my Java projects: [https://github.com/exteraraujo/meu-primeiro-codigo].
-
-📩 Feel free to reach out if you’re working on backend projects or initiatives related to marine conservation!
-
-<!---
-exteraraujo/exteraraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+🛠️ Em busca da minha primeira oportunidade na área de tecnologia. Se você tem um projeto ou empresa onde eu possa aprender e contribuir, me chama!

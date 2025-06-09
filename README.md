@@ -19,7 +19,7 @@
 📌 Meus projetos em destaque:
 - [Gerenciador de Tarefas (Java)](https://github.com/exteraraujo/gerenciador-de-tarefas-java)
 - [EcoAlert (em desenvolvimento)](https://github.com/exteraraujo/ECO-ALERTA)
-- CifraDeCesar(https://github.com/exteraraujo/CifraDeCesar-Java). 
+- [CifraDeCesar](https://github.com/exteraraujo/CifraDeCesar-Java). 
 
 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/) ou envie um e-mail: esteraraujo.dev@gmail.com
 

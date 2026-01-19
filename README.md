@@ -4,11 +4,6 @@
 
 💻 Apaixonada por tecnologia e motivada a construir soluções úteis e de impacto. Tenho buscado evoluir por meio de projetos práticos, desafios de programação e colaboração em equipe.
 
-🌱 Atualmente aprendendo:
-- **Java (backend e orientação a objetos)**
-- **Estruturas de dados e algoritmos**
-- Fundamentos de **Spring Boot** e **Desenvolvimento Web**
-
 🚀 Próximos passos:
 - Aprofundar em frameworks como **Spring Boot**
 - Explorar **Node.js** e **Python (Django/Flask)**

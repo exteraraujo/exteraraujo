@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Ester Araújo!
 
-🎓 Estudante de Engenharia de Software, atualmente no 4º semestre, com foco em desenvolvimento **Full Stack**, especialmente em **Java**.
+🎓 Estudante de Engenharia de Software, atualmente no 5º semestre, com foco em desenvolvimento **Full Stack**, especialmente em **Java**.
 
 💻 Apaixonada por tecnologia e motivada a construir soluções úteis e de impacto. Tenho buscado evoluir por meio de projetos práticos, desafios de programação e colaboração em equipe.
 

@@ -6,15 +6,10 @@
 
 🚀 Próximos passos:
 - Aprofundar em frameworks como **Spring Boot**
-- Explorar **Node.js** e **Python (Django/Flask)**
+- Explorar **Node.js**
 - Entender mais sobre bancos de dados, APIs REST e versionamento com Git
 
 🎯 Atualmente em busca de uma oportunidade como desenvolvedora júnior — focada em backend com Java, mas aberta a aprender novas tecnologias para crescer junto com o time.
-
-📌 Meus projetos em destaque:
-- [Gerenciador de Tarefas (Java)](https://github.com/exteraraujo/gerenciador-de-tarefas-java)
-- [EcoAlert (em desenvolvimento)](https://github.com/exteraraujo/ECO-ALERTA)
-- [CifraDeCesar](https://github.com/exteraraujo/CifraDeCesar-Java). 
 
 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ester-ara%C3%BAjo-853447236/) ou envie um e-mail: esteraraujo.dev@gmail.com
 
